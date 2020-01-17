@@ -1,0 +1,8 @@
+Simple Workflow
+name: Simple
+
+  Check Payer
+  Check logs
+  Send Can't Solve if it's not possible
+  Solve the ticket if POF or Verified.
+
