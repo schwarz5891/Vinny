@@ -3,6 +3,6 @@ name: Simple
 
   Check Payer
   Check logs
-  Send Can't Solve if it's not possible
+  Send Can't Solve if it's not possible (will tag automatically and send to Alon as Pensing)
   Solve the ticket if POF or Verified.
 
